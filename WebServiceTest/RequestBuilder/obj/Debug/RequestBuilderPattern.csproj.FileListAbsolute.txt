@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\bin\Debug\RequestBuilder.dll
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\bin\Debug\RequestBuilder.pdb
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\bin\Debug\RestSharp.dll
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\obj\Debug\RequestBuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\obj\Debug\RequestBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\obj\Debug\RequestBuilderPattern.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\obj\Debug\RequestBuilder.dll
+C:\Users\lenovo\source\repos\WebServiceTest\RequestBuilder\obj\Debug\RequestBuilder.pdb
