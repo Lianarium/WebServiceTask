@@ -11,7 +11,8 @@ namespace RequestBuilderPattern
         public RestRequest RestRequest { get; set; }
 
         public IRestResponse RestResponse { get; set; }
-        public List<Parameter> RequestHeaders { get; set; }
+
+        //public List<Parameter> RequestHeaders { get; set; }
 
         public string RequestBody { get; set; }
 

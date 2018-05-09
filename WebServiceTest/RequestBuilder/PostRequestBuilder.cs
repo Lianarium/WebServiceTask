@@ -21,6 +21,7 @@ namespace RequestBuilderPattern
         public override void SetHeaders()
         {
            // this.Request.RestRequest.AddHeader("Connection", "Keep-Alive");
+           
         }
 
         public override void SetRestClient()
